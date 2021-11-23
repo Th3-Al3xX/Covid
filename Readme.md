@@ -1,1 +1,1 @@
-Este projeto é destinado a parceria Atos - UFNpwd
+Este projeto é destinado a parceria Atos - UFN
